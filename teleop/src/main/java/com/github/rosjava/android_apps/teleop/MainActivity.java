@@ -21,7 +21,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-
 import com.github.rosjava.android_remocons.common_tools.apps.RosAppActivity;
 
 import org.ros.android.BitmapFromCompressedImage;
